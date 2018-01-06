@@ -31,7 +31,7 @@ python setup.py install
 
 ## Usage
 
-**`cd` to project directory LuigiPlayground first, then,**
+**`cd` to project directory luigi-playground first, then,**
 
 **- basic task example** 
 ```
