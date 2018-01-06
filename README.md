@@ -56,4 +56,4 @@ python src/examples/example_event_handler_task.py FailedEventHandlerTask --task-
 
 *After hitting any command above, it will direct you to <a>http://localhost:8082</a> to see the visualization*
 
-*Task output will be stored in ./output/ directory, and it will be overrode on every task run*
+*Task output will be stored in ./output/directory, and it will be overrode on every task run*
