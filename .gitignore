@@ -10,3 +10,4 @@ dist
 .eggs
 *.egg-info
 output
+*.pyc
